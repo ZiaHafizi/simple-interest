@@ -2,6 +2,9 @@
 
 This repository contains a shell script to calculate simple interest.
 
+**This line is added in bug-fix-typo branch for testing merge.**
+
+
 ## Description
 The script takes principal, rate of interest, and time as input and calculates the simple interest.
 
